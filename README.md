@@ -54,8 +54,5 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### 💻 Leetcode:
 
-![leetcode](https://leetcode.com/alex228228)
+[![LeetCode](https://img.shields.io/badge/LeetCode-YourUsername-brightgreen)]([https://leetcode.com/YourUsername/](https://leetcode.com/alex228228))
 
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
