@@ -4,7 +4,7 @@
 
 ---
 
-### :man_technologist: About me:
+### About me:
 
 I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into IT started in college, where I first learned Python and tried my hand at many areas of programming, but the one I enjoyed the most was working with data. That's why I chose Data sciense. I am an excellent college graduate majoring in Computer Science. Now I am taking courses in Machine Learning and practicing data science every day.
 
