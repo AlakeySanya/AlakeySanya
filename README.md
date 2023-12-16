@@ -12,7 +12,7 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ---
 
-### 🤝 Social media:
+### 💪 Strenght:
 
 - Python Expert. Frameworks: pandas, numpy, matplotlib, scipy, tensorflow, scikit-learn.
 - Excellent knowledge of PostgreSQL.
