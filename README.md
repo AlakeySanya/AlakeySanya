@@ -33,6 +33,7 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://www.onurbabur.com/wp-content/uploads/2023/03/PostgreSQL-Logo.wine_.png" alt="Tableau" width="40" height="40"/>
 </div>
 
 ---
@@ -46,6 +47,14 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### 💻 Leetcode:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-alex228228-brightgreen)](https://leetcode.com/alex228228/)
+<div style="display: flex; align-items: center;">
+  <a href="https://leetcode.com/alex228228/">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="LeetCode Profile" width="40" height="40">
+  </a>
+  <a href="https://leetcode.com/alex228228/" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/LeetCode-alex228228-brightgreen" alt="LeetCode Profile">
+  </a>
+</div>
+
 
 
