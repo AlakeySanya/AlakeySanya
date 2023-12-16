@@ -34,23 +34,15 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
 </div>
-
+Professionally understand all of the above technologies. I also have a great understanding of Tableau and can build large and complex dashboards perfectly describing the metrics that need to be described.
 ---
 
-<!-- ### 💻 Пройденные курсы:
+### 💻 Courses taken:
 
-| Курсы                                                           | Дата              |
+| Courses                                                         | Data              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
-
---- -->
+| stepik.org/Демоверсия курса "Аналитика данных" от carpov.kourse | 11/2023 - 12/2023 |
+| stepik.org/Машинное обучение                                    | 12/2023 - 01/2024 |
 
 ### 💻 Leetcode:
 
