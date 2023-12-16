@@ -33,8 +33,7 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" alt="Tableau" width="40" height="40"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="40" height="40"/>
 </div>
 
 ---
