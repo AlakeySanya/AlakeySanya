@@ -33,8 +33,8 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
+  <img src="https://img.shields.io/badge/Tableau-20C997?logo=tableau&logoColor=white" alt="Tableau" />
 </div>
-Professionally understand all of the above technologies. I also have a great understanding of Tableau and can build large and complex dashboards perfectly describing the metrics that need to be described.
 
 ---
 
