@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+  <a name="readme-top"></a>
 
 # Hello, my name is Alex!
 
@@ -8,17 +8,16 @@
 
 I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into IT started in college, where I first learned Python and tried my hand at many areas of programming, but the one I enjoyed the most was working with data. That's why I chose Data sciense. I am an excellent college graduate majoring in Computer Science. Now I am taking courses in Machine Learning and practicing data science every day.
 
-- :How to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YEGERMISTERBLYAT) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexnoomad@gmail.com)
+- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YEGERMISTERBLYAT) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexnoomad@gmail.com)
 
 ---
 
 ### 🤝 Social media:
 
-  <div id="badges">
-    <a href="https://t.me/YEGERMISTERBLYAT" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  </div>
+- Python Expert. Frameworks: pandas, numpy, matplotlib, scipy, tensorflow, scikit-learn.
+- Excellent knowledge of PostgreSQL.
+- Good in math and statistics.
+- I learn new things easily. I don't know fatigue or burnout.
 
 ---
 
