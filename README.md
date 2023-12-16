@@ -35,6 +35,7 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
 </div>
 Professionally understand all of the above technologies. I also have a great understanding of Tableau and can build large and complex dashboards perfectly describing the metrics that need to be described.
+
 ---
 
 ### 💻 Courses taken:
