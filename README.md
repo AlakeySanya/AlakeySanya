@@ -8,13 +8,13 @@
 
 I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey into IT started in college(2022), where I first learned Python and tried my hand at many areas of programming, but the one I enjoyed the most was working with data. That's why I chose Data sciense. I am an excellent college graduate majoring in Computer Science. Now I am taking courses in Machine Learning and practicing data science every day.
 
-- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-АлександрСчастливый-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YEGERMISTERBLYAT) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexnoomad@gmail.com)
+- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-YEGERMISTERBLYAT-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/YEGERMISTERBLYAT) [![Gmail Badge](https://img.shields.io/badge/-alexnoomad@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexnoomad@gmail.com)
 
 ---
 
 ### 💪 Strenght:
 
-- Python Expert. Frameworks: pandas, numpy, matplotlib, scipy, tensorflow, scikit-learn.
+- Python Data Science. Frameworks: pandas, numpy, matplotlib, scipy, tensorflow, scikit-learn.
 - Excellent knowledge of PostgreSQL.
 - Good in math and statistics.
 - I learn new things easily. I don't know fatigue or burnout.
