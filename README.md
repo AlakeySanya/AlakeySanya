@@ -14,10 +14,11 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### 💪 Strenght:
 
-- Python Data Science. Frameworks: pandas, numpy, matplotlib, scipy, tensorflow, scikit-learn.
+- Python Data Science. Frameworks: pandas, numpy, matplotlib, scipy, seaborn, ultralytics, scikit-learn.
 - Excellent knowledge of PostgreSQL.
 - Good in math and statistics.
-- I learn new things easily. I don't know fatigue or burnout.
+- I learn new things easily.
+- I don't know fatigue or burnout.
 
 ---
 
@@ -43,6 +44,8 @@ I'm a Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 | -------------------------------------------------------------------------| :---------------: |
 | stepik.org/Демоверсия курса "Аналитика данных" от carpov.kourse          | 11/2023 - 12/2023 |
 | stepik.org/Введение в Data Science и машинное обучение от carpov.kourse  | 12/2023 - 01/2024 |
+
+---
 
 ### Leetcode:
 
